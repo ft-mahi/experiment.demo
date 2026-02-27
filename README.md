@@ -2,4 +2,5 @@
 well.just hanging out with code.
 <br>
 b=10
-print(a/b)
+print(a/b)#all abut learning
+
